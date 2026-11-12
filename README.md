@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=9BE7FF&height=180&section=header&text=Heyo,%20I'm%20bulb%20%F0%9F%A6%88&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" alt="Heyo, I'm bulb" />
+  <img src="./Github%20Banner.png" width="100%" alt="bulb-czek banner" />
 </p>
 
 <p align="center">
@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://hamsternal.ovh"><img src="https://i.ibb.co/MxngyZWB/Hamsternal-Logo.png" alt="Hamsternal website" /></a>
-  <a href="https://discord.com/users/910828822247636993"><img src="https://simpleicons.org/icons/discord.svg" alt="Discord" /></a>
-  <a href="https://open.spotify.com/user/eb7eq9yzgkqz9wjb0ngraj7ip"><img src="https://simpleicons.org/icons/spotify.svg" alt="Spotify" /></a>
+  <a href="https://hamsternal.ovh"><img src="https://img.shields.io/badge/Hamsternal-8AC7FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Hamsternal" /></a>
+  <a href="https://discord.com/users/910828822247636993"><img src="https://img.shields.io/badge/Discord-bulbiczek-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: bulbiczek" /></a>
+  <a href="https://open.spotify.com/user/eb7eq9yzgkqz9wjb0ngraj7ip"><img src="https://img.shields.io/badge/Spotify-profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify profile" /></a>
 </p>
 
 ## What I'm working on
