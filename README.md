@@ -8,9 +8,8 @@
   Im currently trying to improve my coding skills!
 </p>
 
-<p align="center">
-  <<a href="https://hamsternal.ovh">
-  <img src="./hamsternal-logo.png" width="28" height="28" alt="" />
+<a href="https://hamsternal.ovh">
+  <img src="./assets/hamsternal-logo.png" width="28" height="28" alt="" />
   Hamsternal
 </a>
   <a href="https://discord.com/users/910828822247636993"><img src="https://img.shields.io/badge/Discord-bulbiczek-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: bulbiczek" /></a>
