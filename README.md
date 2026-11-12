@@ -5,7 +5,7 @@
 <p align="center">
   Heyo! Im Bulb 🦈<br>
   Im 16 and Polish.
-  Im currently trying to improve!
+  Im currently trying to improve my coding skills!
 </p>
 
 <p align="center">
